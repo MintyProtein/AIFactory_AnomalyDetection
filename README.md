@@ -7,7 +7,7 @@ https://aifactory.space/competition/detail/2226
 
 ## Solution Overview
 - Anomaly detection by self-supervised linear regression
-- Use Max(abs(error)) from train data  as the threshold of each type
+- The highest error value of the train data will be used as threshold
 - Test samples with higher error than threshold is labeled as anomaly
 
 
