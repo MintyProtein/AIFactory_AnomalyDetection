@@ -6,7 +6,7 @@ https://aifactory.space/competition/detail/2226
 정지현, 위성진
 
 ## Solution Overview
-- Each type has strong linear correlation: Anomaly detection by self-supervised linear regression
+- Anomaly detection by self-supervised linear regression
 - Use Max(abs(error)) from train data  as the threshold of each type
 - Test samples with higher error than threshold is labeled as anomaly
 
