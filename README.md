@@ -1,5 +1,5 @@
 # AIFactory_AnomalyDetection
-AIFactory제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단(23.04.03 ~ 23.04.21)
+AIFactory제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단(23.04.03 ~ 23.04.21 total 22th)
 https://aifactory.space/competition/detail/2226
 
 ## Team member
